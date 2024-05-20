@@ -1,0 +1,10 @@
+#eclipse configuration files
+.project
+.classpath
+.settings/
+*.class
+
+#Logs
+*.log
+/bin/
+
